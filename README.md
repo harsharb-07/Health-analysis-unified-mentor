@@ -40,3 +40,5 @@ This pipeline dynamically compares traditional Baseline persistence logic direct
 * Python 3.9+
 * Pandas, Numpy, Scikit-learn, Statsmodels
 * Streamlit & Plotly
+
+Last updated: 2026-03-04 — minor README tweak
